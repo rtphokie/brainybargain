@@ -4,7 +4,7 @@ Shows the latest Amazon deals listed on brainybargain.com showing the (approxima
 those products that are no longer available.
 
 This information should be used as a guide to help you find the deals you might be most interested in.
-Product and coupon code availabilty as well as prices frequently change. 
+Product and coupon code availability as well as prices frequently change. No warranty is offered or implied.
 
 ## Installation
 
